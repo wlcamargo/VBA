@@ -1,0 +1,5 @@
+'O Script abaixo vai exibir uma mensagem na tela quando o usuário abrir a planilha.
+
+Private Sub Workbook_Open()
+MsgBox ("Hello World")
+End Sub
